@@ -119,7 +119,7 @@ var arrLang = {
     'Highlights_h1' : 'km',
     'Highlights_p1' : 'From the Manila Ninoy Aquino International Airport',
     'Highlights_h2' : 'sq.m',
-    'Highlights_p2' : 'Enormous studio in the Philippines',
+    'Highlights_p2' : 'Double layers studio',
     'Highlights_h3' : 'tables',
     'Highlights_p3' : 'Includes >  50 traditional tables',
     'Highlights_h4' : 'theme rooms',
@@ -131,7 +131,7 @@ var arrLang = {
     'Highlights_h7' : '',
     'Highlights_p7' : 'Dealers, pitbosses, shufflers supporting 24/7 live streaming',
     'Highlights_h8' : 'languages',
-    'Highlights_p8' : 'Serving multinational players from anywhere in the future',
+    'Highlights_p8' : 'Serve multinational players from anywhere',
     //Licences & Certifications
     'LiceCert_1' : 'Licences &',
     'LiceCert_2' : 'Certifications',
